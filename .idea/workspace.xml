@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e21d016-3ffd-4597-8647-f3fe36535a61" name="Default" comment="adding signup user page">
+    <list default="true" id="9e21d016-3ffd-4597-8647-f3fe36535a61" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/users_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/helpers/application_helper.rb" afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/articles/index.html.erb" afterPath="$PROJECT_DIR$/app/views/articles/index.html.erb" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -711,7 +708,7 @@
       <workItem from="1487337118686" duration="4000" />
       <workItem from="1487337854933" duration="9728000" />
       <workItem from="1487375227134" duration="4824000" />
-      <workItem from="1487413152426" duration="6412000" />
+      <workItem from="1487413152426" duration="7064000" />
     </task>
     <task id="LOCAL-00001" summary="put validations to User">
       <created>1487340613275</created>
@@ -748,11 +745,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487416176197</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Show user articles">
+      <created>1487421304254</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1487421304254</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55158000" />
+    <option name="totallyTimeSpent" value="55810000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
@@ -789,7 +793,8 @@
     <MESSAGE value="add user details and add styling to article list" />
     <MESSAGE value="add secure password and password_digest" />
     <MESSAGE value="adding signup user page" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding signup user page" />
+    <MESSAGE value="Show user articles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Show user articles" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
