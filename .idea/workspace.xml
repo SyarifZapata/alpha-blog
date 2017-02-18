@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9e21d016-3ffd-4597-8647-f3fe36535a61" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/users_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/articles/show.html.erb" afterPath="$PROJECT_DIR$/app/views/articles/show.html.erb" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -712,7 +709,7 @@
       <workItem from="1487337118686" duration="4000" />
       <workItem from="1487337854933" duration="9728000" />
       <workItem from="1487375227134" duration="4824000" />
-      <workItem from="1487413152426" duration="8149000" />
+      <workItem from="1487413152426" duration="8179000" />
     </task>
     <task id="LOCAL-00001" summary="put validations to User">
       <created>1487340613275</created>
@@ -756,11 +753,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487421304254</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="User article">
+      <created>1487426219672</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1487426219672</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56895000" />
+    <option name="totallyTimeSpent" value="56925000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
@@ -798,7 +802,8 @@
     <MESSAGE value="add secure password and password_digest" />
     <MESSAGE value="adding signup user page" />
     <MESSAGE value="Show user articles" />
-    <option name="LAST_COMMIT_MESSAGE" value="Show user articles" />
+    <MESSAGE value="User article" />
+    <option name="LAST_COMMIT_MESSAGE" value="User article" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
